@@ -140,7 +140,7 @@ HTTP报文包括三个部分：
 
 首部：	  Content-type:	text/plain
 
-​				  Content-length:	19
+ 			   Content-length:	19
 
 
 
