@@ -138,7 +138,7 @@ HTTP报文包括三个部分：
 
 起始行：  HTTP/1.0   200  OK
 
-首部：	  Content-type:	text/plain
-		     Content-length:	19
+首部：	Content-type:	text/plain
+	Content-length:	19
 
 主体：	   Hi! I am message
